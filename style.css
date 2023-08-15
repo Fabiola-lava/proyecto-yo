@@ -1,0 +1,89 @@
+.Mi-sitio {
+    list-style: none;
+    background-color:#a1ff15 (6, 153, 189);
+    background-color:#a1ff15;
+    border-radius: 0%;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    width: 100%;
+    max-width: 100000px;
+    margin: auto;
+}
+
+.Pie-de-pagina {
+    list-style: none;
+    background-color:#a1ff15 (134, 53, 19);
+    border-radius: 0%;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    width: 100%;
+    max-width: 100000px;
+    margin: auto;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+#Cosas-que-me-representan-1 {
+    color:#ab034c;
+    background:#a1ff15
+}
+
+p {
+    color:black;
+}
+
+#Encabezado {
+    color:#3e0121;
+}
+
+.Mi-historia {
+    Color:	#30c682;
+}
+
+* {
+    text-align: center;
+}
+
+#Mi-historia {
+    color:rgb(233, 104, 61);
+    background:#ffcc00
+}
+
+html {
+    background-color:	#8144bf;
+}
+
+h2 {
+    color:#46ff03;
+    background:#304ec6
+}
+
+h3 {
+    color:#ffcc00;
+    background:#ab034c
+}
+
+.Mi-familia {
+    color:#ab034c;
+    background:#a1ff15
+}
+
+.Mis-amigos {
+    color:#ab034c;
+    background:#a1ff15
+}
+
+.Mis-hobbies {
+    color:rgb(233, 104, 61);
+    background:#ffcc00
+}
+
+img {
+    padding: 30px;
+}
